@@ -1,6 +1,6 @@
 # Code signing policy
 
-Status: application preparation only; no approval, certificate, or signed release exists.
+Status: SignPath Foundation application submitted October 1, 2026. Approval is pending; no signed release exists.
 
 ## Team roles
 
@@ -24,5 +24,6 @@ Until approval, this attribution is a required future statement, not a claim tha
 ## Privacy
 
 See [Privacy](PRIVACY.md), including Roblox and Microsoft policies. Signing artifacts must never include local session/account data.
+
 
 
