@@ -26,8 +26,7 @@ See [Code signing policy](CODE-SIGNING-POLICY.md). This preparation is UNSIGNED 
 
 See [Privacy](PRIVACY.md) and the WebView2 license and notice in this repository. No account data, cookies, passwords, browser profiles, private keys, or user settings belong in this repository.
 
-## License status
+## License
 
-Maintainer: [RaresDevLibrary](https://github.com/RaresDevLibrary). The owner confirmed creating the logo and sounds from scratch. Publication is pending approval of the proposed MIT license. `LICENSE-MIT.draft` is a proposed license, not an active license grant. Do not publish this preparation as a licensed open-source release until those items are resolved.
-
+Copyright (c) 2026 RaresDevLibrary. Source, logo, icon, and both sound files are released under the [MIT license](LICENSE). Microsoft WebView2 retains its own license and notices.
 
